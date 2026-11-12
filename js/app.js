@@ -1,6 +1,6 @@
 /* Burguer House — cardápio demonstrativo. Sem dependências. */
 const CONFIG = {
-  whatsapp: '5527997650701', // número de destino dos pedidos (somente DDI+DDD+número)
+  whatsapp: '5527997230221', // número de destino dos pedidos (somente DDI+DDD+número)
   delivery: 5.00,
   minOrder: 20.00,
   name: 'Burguer House'
